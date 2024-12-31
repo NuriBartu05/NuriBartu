@@ -1,2 +1,3 @@
 # NuriBartu
-![DVlCjKXP_400x400](https://user-images.githubusercontent.com/110860267/207131707-cdb69467-2907-4ac3-8d98-a5364dfbffe8.jpg)
+
+I'm researcher in Blockchain and Cryptocurrecy. I have been running nodes and validating them for 3 years. I love crypto and I'm trying to improve myself.
